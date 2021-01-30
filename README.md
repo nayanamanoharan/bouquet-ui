@@ -1,1 +1,1 @@
-this is static e-commerse website for bouquet
+this is static e-commerce website for bouquet
